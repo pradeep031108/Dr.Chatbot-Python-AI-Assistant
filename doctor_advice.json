@@ -1,0 +1,603 @@
+{
+  "Fever": [
+    "Take Paracetamol 500mg every 6-8 hours but not more than 4g in 24 hours.",
+    "Stay hydrated with warm fluids like soups and ORS.",
+    "Wear light clothes and rest properly.",
+    "Avoid unnecessary antibiotics unless prescribed.",
+    "If fever lasts beyond 3 days or goes above 102°F, seek medical advice.",
+    "Seek immediate care if associated with seizures or breathing trouble."
+  ],
+  "Cold and Sneezing": [
+    "Take Cetirizine 10mg once at night for running nose.",
+    "Do steam inhalation twice daily for nasal relief.",
+    "Hydrate with warm water and avoid cold products.",
+    "Use saline nasal drops 3-4 times a day.",
+    "Avoid allergens like dust and perfumes.",
+    "Consult doctor if symptoms persist more than a week."
+  ],
+  "Headache": [
+    "Use Paracetamol 500mg or Ibuprofen 400mg if severe.",
+    "Hydrate with 2-3L water daily.",
+    "Rest and sleep 7-8 hours every night.",
+    "Avoid long screen exposure and bright lights.",
+    "Apply cold compress or massage forehead for relief.",
+    "Visit doctor if associated with vomiting or blurred vision."
+  ],
+  "Acidity": [
+    "Take Pantoprazole 40mg once before breakfast.",
+    "Avoid spicy, oily, and fried food.",
+    "Do not lie flat immediately after meals.",
+    "Eat small and frequent meals through the day.",
+    "Quit alcohol and smoking.",
+    "Consult gastroenterologist if frequent."
+  ],
+  "Loose Motion": [
+    "Drink ORS solution after every episode.",
+    "Eat light meals like rice, curd, boiled foods.",
+    "Avoid milk, oily food, and outside fast food.",
+    "Take Racecadotril 100mg capsule thrice daily if needed.",
+    "Wash hands regularly and maintain hygiene.",
+    "Visit doctor if stools are bloody or persistent."
+  ],
+  "Cough": [
+    "Take Dextromethorphan syrup 5-10ml three times daily.",
+    "Sip warm water, honey, and ginger tea.",
+    "Avoid smoking and cold drinks.",
+    "Steam inhalation at least twice a day.",
+    "Take throat lozenges for relief.",
+    "Doctor consultation if beyond 10 days."
+  ],
+  "Cough with Phlegm": [
+    "Take Ambroxol + Guaiphenesin + Terbutaline syrup 3 times daily.",
+    "Increase warm water intake to thin mucus.",
+    "Steam inhalation with eucalyptus oil.",
+    "Avoid dust, smoke, and exposure to cold weather.",
+    "Avoid milk products if sputum is thick.",
+    "Seek care if sputum has blood."
+  ],
+  "Throat Pain": [
+    "Gargle with warm salt water 3 times a day.",
+    "Take Paracetamol for pain and fever relief.",
+    "Drink warm ginger tea or honey water.",
+    "Avoid cold drinks and spicy food.",
+    "Suck throat lozenges frequently.",
+    "Consult ENT if pus or tonsil swelling occurs."
+  ],
+  "Back Pain": [
+    "Take Ibuprofen 400mg after meals for pain.",
+    "Apply hot water bag for 15 minutes twice daily.",
+    "Do stretching exercises gently.",
+    "Avoid lifting heavy loads.",
+    "Maintain good posture while sitting.",
+    "Visit orthopedician if radiating to legs."
+  ],
+  "Toothache": [
+    "Take Paracetamol + Ibuprofen for relief.",
+    "Chew on opposite side of affected tooth.",
+    "Do warm saline gargle 3 times/day.",
+    "Apply clove oil on painful tooth spot.",
+    "Avoid cold/too hot foods.",
+    "Visit dentist for permanent cure."
+  ],
+  "Skin Allergy": [
+    "Take Levocetirizine 5mg daily at night.",
+    "Apply Calamine lotion or aloe vera gel.",
+    "Avoid irritating soaps and perfumes.",
+    "Wear loose cotton clothing.",
+    "Hydrate well and avoid scratching.",
+    "Emergency if breathing difficulty appears."
+  ],
+  "Constipation": [
+    "Drink at least 3L water daily.",
+    "Eat high-fiber food like fruits and vegetables.",
+    "Take small daily walks/exercise.",
+    "Use Lactulose syrup if severe.",
+    "Avoid junk food and excess tea/coffee.",
+    "See doctor for prolonged constipation."
+  ],
+  "Vomiting": [
+    "Take Ondansetron 4mg for relief.",
+    "Drink ORS, tender coconut water, or lime juice.",
+    "Eat bland small meals, avoid oily food.",
+    "Do not lie flat immediately after food.",
+    "Avoid antibiotics unless prescribed.",
+    "Visit hospital if continuous or bloody."
+  ],
+  "Bloating / Gas": [
+    "Take Simethicone 80mg after meals.",
+    "Avoid carbonated drinks and chewing gum.",
+    "Do mild walking after meals.",
+    "Eat slowly; avoid overeating.",
+    "Avoid beans and high-gas veggies.",
+    "See gastro doctor if frequent."
+  ],
+  "Red Itchy Eye": [
+    "Use antibiotic eye drops like Ciprofloxacin 4 times daily.",
+    "Wash eyes with clean water regularly.",
+    "Do not rub or touch eyes.",
+    "Avoid sharing towels or pillows.",
+    "Wear sunglasses outside.",
+    "Consult eye doctor if severe pain."
+  ],
+  "Ear Pain": [
+    "Take Paracetamol to reduce pain.",
+    "Keep ear dry, do not put objects inside.",
+    "Apply warm compress on ear.",
+    "Avoid swimming till cured.",
+    "Consult doctor if discharge seen.",
+    "ENT referral if lasting long."
+  ],
+  "Asthma": [
+    "Use Salbutamol inhaler immediately during attack.",
+    "Sit in straight posture, do not lie flat.",
+    "Avoid dust, smoke, and pollens.",
+    "Take regular inhaled steroid preventers if prescribed.",
+    "Do not skip medicines.",
+    "Emergency if worsening and inhaler not effective."
+  ],
+  "Diabetes High Sugar": [
+    "Check sugar with glucometer frequently.",
+    "Continue daily Metformin or prescribed tablets.",
+    "Avoid sweets and sugary foods.",
+    "Hydrate with plenty of water.",
+    "Do mild walking exercises.",
+    "Go to hospital if confusion/unconsciousness occurs."
+  ],
+  "High Blood Pressure": [
+    "Monitor BP every day using machine.",
+    "Take regular medicines like Amlodipine.",
+    "Avoid excessive salt, pickles, papads.",
+    "Eat more vegetables and fruits.",
+    "Exercise lightly and reduce stress.",
+    "Doctor if BP >160/100 with chest pain."
+  ],
+  "Low Blood Pressure": [
+    "Drink ORS, salt water, or coconut water.",
+    "Eat small frequent meals.",
+    "Avoid standing suddenly from lying down.",
+    "Wear compression stockings if doctor suggests.",
+    "Take more salt in diet only under doctor advice.",
+    "Hospital visit if fainting occurs."
+  ],
+  "Migraine": [
+    "Take Sumatriptan 50mg at headache onset if known migraine.",
+    "Stay in dark, quiet room and sleep.",
+    "Avoid coffee, chocolates, and cheese which commonly trigger.",
+    "Hydrate properly and do not skip meals.",
+    "Practice relaxation exercises daily.",
+    "See neurologist if frequent severe headaches."
+  ],
+  "Joint Pain (Arthritis)": [
+    "Take Paracetamol or Diclofenac for occasional pain.",
+    "Warm fomentation to joint helps relieve stiffness.",
+    "Do mild physio exercises to keep joints moving.",
+    "Maintain body weight within normal limits.",
+    "Eat calcium rich food or supplements for bone health.",
+    "Consult rheumatologist if swelling is persistent."
+  ],
+  "Chest Pain": [
+    "Sit down and relax, avoid sudden exertion.",
+    "Take an Aspirin 300mg if suspected cardiac chest pain and not allergic.",
+    "Call emergency if chest pain radiates to arm/jaw or with sweating.",
+    "Avoid smoking and high cholesterol food.",
+    "Check BP and ECG as soon as possible.",
+    "Never ignore chest pain beyond 10 minutes."
+  ],
+  "Heartburn": [
+    "Take Pantoprazole 40mg tablet morning empty stomach.",
+    "Avoid spicy food, citrus juices, and caffeine.",
+    "Eat small meals and avoid lying down after eating.",
+    "Raise head end of bed while sleeping.",
+    "Lose weight if overweight.",
+    "Visit doctor if frequent or with vomiting of blood."
+  ],
+  "Anemia (Low Hemoglobin)": [
+    "Take Iron tablets after meals daily.",
+    "Eat green leafy vegetables, dates, jaggery, red meat.",
+    "Avoid tea/coffee immediately after meals as they block iron absorption.",
+    "Take Folic acid supplements if prescribed.",
+    "Check blood count every 3 months.",
+    "Seek doctor if fatigue or breathlessness is severe."
+  ],
+  "Dehydration": [
+    "Drink ORS frequently especially after diarrhea or sweating.",
+    "Suck ice chips or drink coconut water for quick hydration.",
+    "Avoid alcohol and caffeinated drinks.",
+    "Eat watery fruits like watermelon/cucumber.",
+    "Look for urine output; consult if very less.",
+    "Hospital if persistent vomiting prevents oral fluids."
+  ],
+  "Heat Stroke": [
+    "Move to cool shaded area immediately.",
+    "Drink cool water slowly, not in gulps.",
+    "Apply wet cloth on forehead and body.",
+    "Do not give salty food immediately.",
+    "Rest until normal body temperature is restored.",
+    "Hospital treatment if confusion or fainting present."
+  ],
+  "Hypoglycemia (Low Sugar)": [
+    "Check blood sugar instantly if possible.",
+    "If <70 mg/dl, take glucose water or sugar solution.",
+    "Eat biscuit, sweet, or juice quickly.",
+    "Rest for 15 minutes then check sugar again.",
+    "Never skip meals if on diabetic medicines.",
+    "Go to ER if fainting or seizures occur."
+  ],
+  "Thyroid Disorder": [
+    "Take prescribed Thyroxine tablet early morning empty stomach.",
+    "Avoid taking with tea/coffee, wait 30 min.",
+    "Do thyroid blood check every 6 months.",
+    "Eat balanced food with iodised salt.",
+    "Do not self adjust dose without doctor.",
+    "Consult endocrinologist if swelling neck appears."
+  ],
+  "Urinary Infection": [
+    "Drink 3L water daily to flush bacteria.",
+    "Take urinary alkalizer syrup to reduce burning sensation.",
+    "Take prescribed antibiotics like Nitrofurantoin.",
+    "Avoid holding urine for long periods.",
+    "Maintain proper hygiene and avoid irritant soaps.",
+    "See doctor if fever, back pain occurs."
+  ],
+  "Kidney Stones": [
+    "Drink 4L water daily to pass small stones.",
+    "Take Tab Tamsulosin if doctor prescribed for easier passage.",
+    "Avoid high calcium supplements unless doctor suggests.",
+    "Eat more citrus fruits like lemon for prevention.",
+    "Hospital treatment if severe flank pain or blood urine.",
+    "Do ultrasound if recurrent."
+  ],
+  "Gastritis": [
+    "Avoid spicy and very hot food.",
+    "Take Omeprazole/Pantoprazole as prescribed before food.",
+    "Eat smaller frequent meals.",
+    "Avoid excess alcohol and smoking.",
+    "Do not overuse painkiller tablets.",
+    "Seek doctor if persistent stomach burning."
+  ],
+  "Food Poisoning": [
+    "Hydrate well with ORS and tender coconut water.",
+    "Avoid eating outside food after poison episode.",
+    "Take Ondansetron for vomiting if severe.",
+    "Eat boiled rice, curd, fruits once stable.",
+    "Do not take strong antibiotics without test.",
+    "Hospital if very weak with dehydration."
+  ],
+  "Piles / Hemorrhoids": [
+    "Eat high fiber food and hydrate well to prevent hard stools.",
+    "Soak in warm water tub (sitz bath) 2 times daily.",
+    "Apply hemorrhoid cream prescribed.",
+    "Avoid sitting for too long at stretch.",
+    "Do not strain while passing stools.",
+    "See surgeon if bleeding persists."
+  ],
+  "Menstrual Cramps": [
+    "Take Mefenamic acid 250mg for severe cramps.",
+    "Apply hot pack to lower abdomen.",
+    "Do light stretching exercises for relaxation.",
+    "Avoid excess junk and fried foods during periods.",
+    "Drink warm fluids and maintain proper rest.",
+    "Consult gynecologist if cramps are unbearable monthly."
+  ],
+  "Pregnancy Morning Sickness": [
+    "Take Doxylamine + Pyridoxine tablets if prescribed.",
+    "Eat small frequent meals and avoid oily/spicy food.",
+    "Drink ginger tea for natural relief.",
+    "Rest in sitting posture after meals.",
+    "Avoid empty stomach in mornings.",
+    "See obstetrician if vomiting is continuous."
+  ],
+  "Acne / Pimples": [
+    "Wash face 2-3 times daily with mild cleanser.",
+    "Avoid oily creams and avoid touching pimples.",
+    "Use prescribed benzoyl peroxide or salicylic acid cream.",
+    "Do not squeeze or press pimples to avoid scars.",
+    "Hydrate and take green leafy foods.",
+    "Dermatologist review if severe cystic acne."
+  ],
+  "Dandruff": [
+    "Use medicated shampoo with ketoconazole twice weekly.",
+    "Avoid sharing combs, towels, or hats.",
+    "Massage scalp with mild coconut oil before wash.",
+    "Eat healthy diet with zinc and vitamin B.",
+    "Do not use excessive hair spray/gel.",
+    "Consult dermatologist if itching severe."
+  ],
+  "Hair Fall": [
+    "Maintain balanced food with enough protein and iron.",
+    "Take Biotin or prescribed multivitamin.",
+    "Avoid harsh shampoos or frequent chemical coloring.",
+    "Keep scalp clean and dandruff free.",
+    "Do not tie hair very tightly causing traction.",
+    "Doctor check if sudden hair loss."
+  ],
+  "Insomnia": [
+    "Maintain fixed sleep schedule daily.",
+    "Avoid electronics and caffeine before bedtime.",
+    "Do breathing exercises or meditation before sleeping.",
+    "Make bedroom dark and quiet.",
+    "Light exercise during day improves sleep quality.",
+    "Doctor if not sleeping more than 3 days."
+  ],
+  "Depression Symptoms": [
+    "Share problems with friends or trusted family.",
+    "Maintain daily routine with regular exercise.",
+    "Avoid alcohol and drugs to cope.",
+    "Eat nutritious balanced food.",
+    "Seek counseling with mental health specialist.",
+    "Use antidepressants only under psychiatrist advice."
+  ],
+  "Anxiety Symptoms": [
+    "Practice deep breathing to calm mind.",
+    "Do daily yoga, meditation for relaxation.",
+    "Avoid excessive tea, coffee, and alcohol.",
+    "Maintain proper sleep habits.",
+    "Talk to therapist for coping techniques.",
+    "Seek psychiatrist if panic attacks frequent."
+  ],
+  "Sunburn": [
+    "Apply aloe vera gel or soothing lotion.",
+    "Drink plenty of water to hydrate.",
+    "Avoid direct sun exposure midday.",
+    "Use sunscreen SPF 30+ before outdoors.",
+    "Wear cotton clothes to cover burnt areas.",
+    "Seek doctor if blisters develop."
+  ],
+  "Chickenpox": [
+    "Isolate to prevent spread to others for 7 days.",
+    "Apply calamine lotion on blisters for relief.",
+    "Take Paracetamol for fever, avoid aspirin.",
+    "Trim nails short to avoid skin infection.",
+    "Hydrate with water and juices.",
+    "Consult doctor if blisters in eyes or breathing trouble."
+  ],
+  "Measles": [
+    "Isolate patient till 4 days after rash onset.",
+    "Give Paracetamol for fever if needed.",
+    "Hydrate well and give soft diet.",
+    "Keep room dim for photophobia.",
+    "Get proper measles vaccination if not given.",
+    "Hospital if breathing difficulty or convulsions."
+  ],
+  "Typhoid": [
+    "Take complete antibiotic course prescribed.",
+    "Eat soft bland food like khichdi, boiled potatoes.",
+    "Hydrate sufficiently with ORS or fluids.",
+    "Avoid outside food and street food.",
+    "Take rest and avoid overstrain.",
+    "Do blood test follow-up till cleared."
+  ],
+  "Dengue Fever": [
+    "Paracetamol for fever, avoid Ibuprofen and Aspirin.",
+    "Drink plenty of fluids and ORS.",
+    "Regularly monitor platelet count at hospital.",
+    "Avoid mosquito bites, use nets at night.",
+    "Hospitalize in case of bleeding or severe weakness.",
+    "Repeat CBC to monitor blood counts."
+  ],
+  "Malaria": [
+    "Take full course of antimalarial tablets prescribed.",
+    "Sleep under mosquito nets at night.",
+    "Avoid stagnant water collections around.",
+    "Take Paracetamol for fever relief not aspirin.",
+    "Hydrate well with warm fluids.",
+    "Hospital if severe chills and altered sensorium."
+  ],
+
+  "Stroke Symptom": [
+    "If sudden numbness/weakness on one side, difficulty speaking, or vision problems, call emergency services immediately.",
+    "Do not drive—get ambulance help as soon as possible.",
+    "Keep the person lying flat and calm until expert help arrives.",
+    "Monitor for worsening or loss of consciousness.",
+    "Note time of onset to inform hospital team (crucial for treatment).",
+    "Hospital evaluation and immediate CT/MRI are required, do not wait for symptoms to improve."
+  ],
+  "Heart Attack": [
+    "Sudden chest pain, heaviness, or radiating discomfort to arm/jaw needs immediate attention.",
+    "Chew one Aspirin tablet (300mg) unless allergic, call ambulance.",
+    "Remain still and avoid physical activity.",
+    "Loosen tight clothing and keep in a ventilated area.",
+    "Monitor for breathlessness or fainting—give CPR if unconscious.",
+    "Hospitalization is urgent for life-saving medications and procedures."
+  ],
+  "Pneumonia": [
+    "Take prescribed antibiotics exactly as per doctor instructions.",
+    "Rest well and drink plenty of fluids to control fever.",
+    "Monitor for persistent cough, chest pain, or shortness of breath.",
+    "Steam inhalation may ease breathing difficulties.",
+    "Keep room humidified to help reduce irritation.",
+    "Hospital care is needed if oxygen levels drop or fever worsens."
+  ],
+  "Ear Infection (Otitis Media)": [
+    "Take Paracetamol for pain relief and prescribed antibiotics if advised.",
+    "Avoid putting ear drops or oil unless doctor prescribes.",
+    "Keep ear dry, no swimming until infection clears.",
+    "Do not insert cotton buds or foreign objects.",
+    "Monitor for fever or pus discharge; consult if persistent.",
+    "Hospital visit needed if ear pain is severe or hearing worsens."
+  ],
+  "Urinary Incontinence": [
+    "Schedule timed bathroom visits to retrain bladder.",
+    "Limit caffeinated and alcoholic drinks.",
+    "Perform pelvic floor exercises daily for control.",
+    "Use absorbent pads if leakage persists.",
+    "Monitor urine color and amount; seek doctor for recurrent issues.",
+    "Doctor may suggest medicines or minor surgery for persistent cases."
+  ],
+  "Obesity": [
+    "Follow a doctor-approved low-calorie, balanced diet plan.",
+    "Exercise at least 30 minutes per day (walk, cycle, swim).",
+    "Monitor weight weekly to track progress.",
+    "Avoid sugary drinks, packed snacks, and fast food.",
+    "Consider counseling for emotional eating habits.",
+    "Doctor review for possible medications or surgery if severe."
+  ],
+  "High Cholesterol": [
+    "Eat more fruits, whole grains, and reduce oily/fatty food intake.",
+    "Take prescribed statin tablets regularly (e.g., Atorvastatin).",
+    "Exercise daily (brisk walks, yoga, cycling).",
+    "Check cholesterol levels every 6 months.",
+    "Quit smoking and limit alcohol.",
+    "See doctor if chest pain, leg pain, or sudden weakness develops."
+  ],
+  "Fatigue / Weakness": [
+    "Rest adequately and maintain a regular sleep schedule.",
+    "Eat nutritious meals, focusing on iron, protein, and complex carbs.",
+    "Hydrate with water, coconut water, and fresh juices.",
+    "Limit caffeine and avoid energy drinks.",
+    "Manage stress using mindfulness and gentle exercise.",
+    "Visit doctor for prolonged fatigue not improving with rest."
+  ],
+  "Hay Fever (Allergic Rhinitis)": [
+    "Take daily antihistamine such as Loratadine.",
+    "Use saline nasal sprays to clear allergens.",
+    "Avoid outdoor exposure during peak pollen times.",
+    "Keep windows closed and clean home frequently.",
+    "Wear a mask if gardening or cleaning.",
+    "Doctor review if severe, persistent, or associated with asthma symptoms."
+  ],
+  "Chronic Sinusitis": [
+    "Use saline nasal washes two times daily.",
+    "Steam inhalation with menthol crystals helps congestion.",
+    "Take prescribed steroid nasal sprays if advised.",
+    "Avoid pollution, strong perfumes, and cold air.",
+    "Stay hydrated and use humidifier at night.",
+    "ENT review needed if pain, swelling, or fever develops."
+  ],
+  "Sleep Apnea": [
+    "Maintain a healthy body weight; lose weight if overweight.",
+    "Sleep on your side, raise head slightly if snoring.",
+    "Avoid alcohol and sedative medicines before bed.",
+    "Doctor may suggest CPAP mask for persistent breathing issues.",
+    "Treat nasal congestion with sprays if present.",
+    "Get a medical sleep study for ongoing symptoms."
+  ],
+  "Fibromyalgia": [
+    "Do gentle aerobic exercises as tolerated, like walking or swimming.",
+    "Eat healthy, balanced meals focusing on anti-inflammatory foods.",
+    "Use warm showers and gentle stretching for pain relief.",
+    "Practice mindfulness, meditation, or talk therapy for stress management.",
+    "Sleep management with fixed schedule is crucial.",
+    "Doctor may prescribe medicine for persistent pain/fatigue."
+  ],
+  "Psoriasis": [
+    "Apply doctor-prescribed medicated creams (like corticosteroids).",
+    "Moisturize affected skin frequently.",
+    "Avoid triggers like harsh soaps, stress, and skin injuries.",
+    "Get sunlight exposure in moderation (avoid sunburn).",
+    "Do not scratch or peel affected areas.",
+    "Dermatologist check if severe or covers large areas."
+  ],
+  "Eczema": [
+    "Use mild, fragrance-free soaps and moisturizers twice daily.",
+    "Wear cotton clothing to avoid skin irritation.",
+    "Take prescribed topical steroids for flare-ups.",
+    "Avoid hot water baths, use lukewarm water instead.",
+    "Keep nails trimmed short to avoid accidental scratching.",
+    "Doctor advice if persistent itch or secondary infection appears."
+  ],
+  "Anxiety Panic Attacks": [
+    "Practice slow, deep breathing when symptoms start.",
+    "Sit or lie in quiet place until attack passes.",
+    "Limit caffeine, alcohol, and nicotine.",
+    "Join support group or do regular counseling.",
+    "Maintain healthy routine and sleep pattern.",
+    "Doctor may prescribe anti-anxiety medicines if attacks frequent."
+  ],
+  "Attention Deficit (ADHD) Adults": [
+    "Keep a written daily schedule and set alarms/reminders.",
+    "Use a quiet work space and minimize distractions.",
+    "Break tasks into smaller steps and take regular breaks.",
+    "Exercise moderately most days for mental focus.",
+    "Discuss doctor-prescribed stimulant/non-stimulant medications.",
+    "Seek counseling for job, family, or relationship support."
+  ],
+  "Substance Dependence": [
+    "Avoid triggers—people, places, or things linked to substance use.",
+    "Talk to a counselor or join a support group.",
+    "Follow a safe, doctor-approved detox plan.",
+    "Exercise regularly and focus on healthy hobbies.",
+    "Monitor for withdrawal symptoms and seek urgent help if needed.",
+    "Long-term medical and emotional support may be necessary."
+  ],
+  "Hearing Problems": [
+    "Get audiometry (hearing test) for diagnosis.",
+    "Avoid extremely loud noises and use ear protection.",
+    "Clean ears gently, never insert objects.",
+    "Use prescribed hearing aids for better quality of life.",
+    "Check for wax blockage; get doctor removal if needed.",
+    "Seek ENT specialist advice if worsening or sudden loss."
+  ],
+  "Carpal Tunnel Syndrome": [
+    "Take frequent breaks from repetitive wrist tasks.",
+    "Wear wrist splints at night for immobilization.",
+    "Use ice packs for swelling and inflammation.",
+    "Limit tight gripping or vibrating tool use.",
+    "Discuss physiotherapy exercises with doctor.",
+    "Surgery may be needed if persistent numbness or weakness."
+  ],
+  "Osteoporosis": [
+    "Take prescribed calcium and vitamin D supplements.",
+    "Do weight-bearing exercises like walking or stair climbing.",
+    "Limit alcohol and caffeine intake.",
+    "Quit smoking for bone health.",
+    "Get regular bone density scans.",
+    "Doctor may suggest special medication if fractures occur."
+  ],
+  "Glaucoma": [
+    "Use eye drops prescribed for lowering eye pressure.",
+    "Get regular eye pressure checks and vision tests.",
+    "Avoid stress and eye injuries.",
+    "Don't miss scheduled ophthalmology appointments.",
+    "Tell doctor about any vision changes or halos.",
+    "Laser or surgery may be required in severe cases."
+  ],
+  "Dental Decay / Cavity": [
+    "Brush teeth with fluoride toothpaste morning and night.",
+    "Limit sugary snacks and drinks.",
+    "Use dental floss daily.",
+    "Visit the dentist every 6 months for checkups.",
+    "Fillings may be needed for pain or sensitivity.",
+    "Sealants and dental cleaning can prevent further decay."
+  ],
+  "Prostate Enlargement": [
+    "Monitor for frequent urination or slow urine flow.",
+    "Avoid caffeine and alcohol in the evenings.",
+    "Do not hold urine for long periods.",
+    "Doctor may prescribe medicines to shrink prostate.",
+    "Surgery needed if urine is completely blocked.",
+    "Yearly prostate checks after age 50 advised."
+  ],
+  "PCOS (Polycystic Ovary Syndrome)": [
+    "Maintain healthy weight through regular exercise.",
+    "Eat balanced meals, avoid excessive sugar and fats.",
+    "Check for irregular periods and excess hair growth.",
+    "Doctor may prescribe hormonal tablets.",
+    "Monitor blood sugar regularly.",
+    "Discuss fertility issues and medications if trying to conceive."
+  ],
+  "Premenstrual Syndrome (PMS)": [
+    "Eat regular meals, increase calcium and magnesium.",
+    "Practice relaxation exercises or mild yoga.",
+    "Limit caffeine, chocolate, and high-salt foods.",
+    "Track cycle with calendars.",
+    "Pain relief tablets like Paracetamol or Ibuprofen if cramps occur.",
+    "Doctor may prescribe medicine for severe mood swings."
+  ],
+  "Tinnitus (Ear ringing)": [
+    "Avoid very loud noises and use ear protection.",
+    "Reduce caffeine and stop smoking.",
+    "Take relaxation exercises for stress reduction.",
+    "Doctor may suggest hearing aids or sound therapy.",
+    "Medications can help in persistent cases.",
+    "Ear specialist consultation is advised."
+  ],
+  "Hyperhidrosis (Excess Sweating)": [
+    "Wear loose, breathable clothing.",
+    "Use antiperspirant sprays or creams.",
+    "Take frequent showers.",
+    "Limit spicy food, caffeine, and stress.",
+    "Doctor may prescribe oral medicines or Botox.",
+    "Surgery possible for severe forms."
+  ]
+}
