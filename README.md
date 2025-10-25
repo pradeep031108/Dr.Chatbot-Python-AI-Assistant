@@ -15,7 +15,8 @@ You can watch a demo of the chatbot in action:
 
 ## Screenshot
 
-<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/8aec0593-dd39-446e-adbf-8ac5526376c5" />
+<img width="952" height="832" alt="image" src="https://github.com/user-attachments/assets/beef94e8-cc97-41e8-8516-2b2c88a91305" />
+
 
 
 ------
