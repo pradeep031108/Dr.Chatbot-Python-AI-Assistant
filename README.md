@@ -9,7 +9,7 @@ It simulates a simple chatbot conversation and can answer basic questions based 
 
 You can watch a demo of the chatbot in action:
 
-![Dr.Chatbot Demo](assets/demo.mp4)
+![Dr.Chatbot Demo](assets/demo video.mp4)
 
 ---
 
