@@ -9,9 +9,7 @@ It simulates a simple chatbot conversation and can answer basic questions based 
 
 You can watch a demo of the chatbot in action:
 
-
-
-> If the video does not play, you can download it or host it externally (YouTube/Drive) and provide the link here.
+![Dr.Chatbot Demo](assets/demo.mp4)
 
 ---
 
